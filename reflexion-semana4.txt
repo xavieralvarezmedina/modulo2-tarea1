@@ -1,0 +1,9 @@
+Usar tecnologías abiertas como Node.js es clave porque
+ permite que una comunidad construya sus propias herramientas
+  para el barrio o la vereda a su total medida dándoles una
+   independencia real donde los datos de los vecinos se quedan
+    protegidos en casa, el conocimiento se comparte en el mismo
+     territorio y no se depende de empresas privadas ni de
+      suscripciones carísimas logrando así resolver los
+       problemas locales sin tener que pedirle permiso
+        ni deberle nada a nadie.
